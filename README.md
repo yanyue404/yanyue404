@@ -2,7 +2,7 @@
 
 I am a web Developer, focus on JavaScript and Node.js , I’m currently learning TypeScript.
 
-## My input
+## Output
 
 :rainbow: [rainbow-design](https://github.com/rainbow-design)
 
