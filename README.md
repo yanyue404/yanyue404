@@ -2,15 +2,10 @@
 
 I am a web Developer, focus on JavaScript and Node.js , I’m currently learning TypeScript.
 
-## Output
+> :rainbow: Output currently in progress:  [rainbow-design](https://github.com/rainbow-design)
 
-:rainbow: [rainbow-design](https://github.com/rainbow-design)
+[![yanyue404's github stats](https://github-readme-stats.vercel.app/api?username=yanyue404&show_icons=true&hide_title=true])](https://github.com/yanyue404)
 
-## Social
-
-- Blog：[RainBow's Blog](https://xiaoyueyue.org/blog/)
-- Twitter：[yanyue404](https://twitter.com/yanyue404)
-- 唱吧：[基督徒 · 小越越](http://changba.com/u/39302742)
 
 <!--
 **yanyue404/yanyue404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
