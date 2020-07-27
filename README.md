@@ -1,4 +1,10 @@
-### Hi there 👋
+### Yan Yue —@rainbow
+
+I am a web Developer, focus on JavaScript and Node.js , I’m currently learning TypeScript.
+
+## My input
+
+:rainbow: [rainbow-design](https://github.com/rainbow-design)
 
 <!--
 **yanyue404/yanyue404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
