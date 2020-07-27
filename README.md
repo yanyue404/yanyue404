@@ -6,6 +6,12 @@ I am a web Developer, focus on JavaScript and Node.js , I’m currently learning
 
 :rainbow: [rainbow-design](https://github.com/rainbow-design)
 
+## Social
+
+- Blog：[RainBow's Blog](https://xiaoyueyue.org/blog/)
+- Twitter：[yanyue404](https://twitter.com/yanyue404)
+- 唱吧：[基督徒 · 小越越](http://changba.com/u/39302742)
+
 <!--
 **yanyue404/yanyue404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
