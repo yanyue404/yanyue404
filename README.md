@@ -2,7 +2,7 @@
 
 I am a web Developer, focus on JavaScript and Node.js , I’m currently learning TypeScript.
 
-> :rainbow: Output currently in progress:  [rainbow-design](https://github.com/rainbow-design)
+> :rainbow: Output currently in progress:  [Rainbow Design](https://github.com/rainbow-design)
 
 [![yanyue404's github stats](https://github-readme-stats.vercel.app/api?username=yanyue404&show_icons=true&hide_title=true])](https://github.com/yanyue404)
 
