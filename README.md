@@ -1,6 +1,6 @@
 ### Yan Yue —@rainbow
 
-I am a Front-end engineer, focus on JavaScript and Node.js , I’m currently learning TypeScript.
+A front-end engineer who likes to sing.
 
 > :rainbow: Output currently in progress:  [Rainbow Design](https://github.com/rainbow-design)
 
