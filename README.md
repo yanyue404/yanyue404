@@ -7,19 +7,11 @@ A front-end engineer who likes to sing.
 [![yanyue404's github stats](https://github-readme-stats.vercel.app/api?username=yanyue404&show_icons=true&hide_title=true])](https://github.com/yanyue404) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zuo&layout=compact)](https://github.com/yanyue404)
 
 
-<!--
-**yanyue404/yanyue404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,vue,nuxt,react,webpack,vite,rollupjs,py" />
+  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,pnpm,postman,md,jenkins,git,vscode" />
+  </a>
+</p>
