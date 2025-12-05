@@ -9,9 +9,6 @@ A front-end engineer who likes to sing.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,vue,nuxt,react,webpack,vite,rollupjs,py" />
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,pnpm,postman,md,jenkins,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,webpack,vite,rollupjs,py" />
   </a>
 </p>
