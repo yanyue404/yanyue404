@@ -1,11 +1,8 @@
-### Yan Yue —@rainbow
+### Yan Yue — @rainbow
 
-A front-end engineer who likes to sing.
+A front-end engineer who likes to sing. :rainbow:
 
-> :rainbow: Output currently in progress:  [Rainbow Design](https://github.com/rainbow-design)
-
-[![yanyue404's github stats](https://github-readme-stats.vercel.app/api?username=yanyue404&show_icons=true&hide_title=true])](https://github.com/yanyue404) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zuo&layout=compact)](https://github.com/yanyue404)
-
+> **GitHub**: [github.com/yanyue404](https://github.com/yanyue404) · **Project**: [Rainbow Design](https://github.com/rainbow-design)
 
 <p align="center">
   <a href="https://skillicons.dev">
